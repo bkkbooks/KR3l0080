@@ -1,0 +1,52 @@
+canonical_identifier: bkk:krp/KR3l0080/v1
+canonical_location: https://kanripo.org/bkk/KR3l0080/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 山房隨筆
+  date: '2015-08-24 23:39:49.222033'
+  source:
+    repository: kanripo
+    path: KR3l0080
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR3l0080_000.yaml, hash: 'sha256:43959f0ddaa6966c87c4cad976d4ec3507e494588b95919d3c19fefd661995a1'}
+  - {seq: 1, filename: KR3l0080_001.yaml, hash: 'sha256:856029e17afa9b79c0b6c4c2ec1c2471dfbfd7e26004fe5025175675a0406155'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3l0080_000.markers.yaml, hash: 'sha256:b2e48a31500046d57e0b74d12daabddfd295653a3c55ce89774b2ab2b495ea98'}
+  - {seq: 1, role: markers, filename: assets/KR3l0080_001.markers.yaml, hash: 'sha256:36cae587be83cf51800477372545c65ccb5f39cbe9a4cede215d8c15a9eee960'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3l0080_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 284
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3l0080_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 5818
+  label: 山房隨筆
+  type: section
+  level: 1
+hash: sha256:b887c2d0945db34b4f4a2233b8dfe15dd6af436429f4490d4d43f393e13e3769
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
