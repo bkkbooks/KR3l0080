@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR3l0080_000.yaml, hash: 'sha256:f45fbb616247db0be7e8aca33eb3e9f01113e9a9d3275cad9aef959399f6bf60'}
   - {seq: 1, filename: KR3l0080_001.yaml, hash: 'sha256:a4472a0b98d08c2ea42bf16880ff454f352554ae37472d2e77ac904a8278a4cf'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3l0080_000.markers.yaml, hash: 'sha256:830280e269b39640ad28b199040d020570ed6056719474fd8226584b33a61cf4'}
-  - {seq: 1, role: markers, filename: assets/KR3l0080_001.markers.yaml, hash: 'sha256:4bc2d744925a2e3e980f100d7d6dc4bcf485ab5d32646ddce240930fb29a25ce'}
+  - {seq: 0, role: markers, filename: assets/KR3l0080_000.markers.yaml, hash: 'sha256:d091c5cb9414add45fbe5ee171f2dd8b08abd273f7c454b3f0703b177aa2f6da'}
+  - {seq: 1, role: markers, filename: assets/KR3l0080_001.markers.yaml, hash: 'sha256:0207ee50cad093d12b9daeaa45ee3cb078232ff2a7764ef721e721769a8f19af'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 山房隨筆
   type: section
   level: 1
-hash: sha256:f840cedd6a01c4cde4d202fc8af4e467705bd7f0c1b4225980f6bca6e76c42a5
+hash: sha256:bcbcd37f584ffe1e729184c1faa612bccc4fdfcf5dc3d85824905a275e0ff048
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
